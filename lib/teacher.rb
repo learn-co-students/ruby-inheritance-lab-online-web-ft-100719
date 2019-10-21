@@ -9,7 +9,7 @@ class   Teacher < User
 
 def teach 
   
-  rand.KNOWLEDGE
+  KNOWLEDGE.sample
   
 end 
   
