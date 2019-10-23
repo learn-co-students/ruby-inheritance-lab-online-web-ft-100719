@@ -7,11 +7,11 @@ def initialize
   @knowledge = []
 end
 
-def first_name
+def first_name=
   @firstname
 end
 
-def last_name
+def last_name=
   @lastname
 end
 
